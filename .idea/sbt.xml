@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="customVMPath" value="$PROJECT_DIR$/../split" />
+    <option name="maximumHeapSize" value="2048" />
+    <option name="vmParameters" value="-Xms1024M -Xmx3084M -Xss3M -XX:+CMSClassUnloadingEnabled -XX:MaxPermSize=256M" />
+  </component>
+</project>
